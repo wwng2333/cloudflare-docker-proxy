@@ -8,13 +8,13 @@ const dockerHub = "https://registry-1.docker.io";
 const routes = {
   // production
   "docker.csgo.ovh": dockerHub,
-  "quay.libcuda.so": "https://quay.io",
-  "gcr.libcuda.so": "https://gcr.io",
-  "k8s-gcr.libcuda.so": "https://k8s.gcr.io",
-  "k8s.libcuda.so": "https://registry.k8s.io",
-  "ghcr.libcuda.so": "https://ghcr.io",
-  "cloudsmith.libcuda.so": "https://docker.cloudsmith.io",
-  "ecr.libcuda.so": "https://public.ecr.aws",
+  "quay.csgo.ovh": "https://quay.io",
+  "gcr.csgo.ovh": "https://gcr.io",
+  "k8s-gcr.csgo.ovh": "https://k8s.gcr.io",
+  "k8s.csgo.ovh": "https://registry.k8s.io",
+  "ghcr.csgo.ovh": "https://ghcr.io",
+  "cloudsmith.csgo.ovh": "https://docker.cloudsmith.io",
+  "ecr.csgo.ovh": "https://public.ecr.aws",
 
   // staging
   "docker.csgo.ovh": dockerHub,
